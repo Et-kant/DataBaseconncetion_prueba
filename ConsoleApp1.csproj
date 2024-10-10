@@ -96,8 +96,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseConnection.cs" />
+    <Compile Include="DeleteByid.cs" />
     <Compile Include="Main.cs" />
+    <Compile Include="Addusers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadUsers.cs" />
+    <Compile Include="UpdateDB.cs" />
     <Compile Include="UserConstructor.cs" />
   </ItemGroup>
   <ItemGroup>
