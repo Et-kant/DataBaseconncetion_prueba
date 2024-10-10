@@ -14,6 +14,7 @@ namespace ConsoleApp1
             this._Stringdeconexion = conexionString;
         }
 
+        //Metodo para retornar el string d conexion
         public string Getconexion()
         {
             return _Stringdeconexion;
